@@ -1,4 +1,4 @@
-# MyFitness Google Action 
+# WordChain Alexa Skill
 
 WordChain is a simple game played between Alexa and Users. Alexa gives a random word and the user should say a word that starts with the last letter of the word given by Alexa. In the next turn Alexa says a word that starts with the last letter of the word given by User and the game continues.
 
